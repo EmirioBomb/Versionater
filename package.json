@@ -1,0 +1,11 @@
+{
+    "scripts": {
+        "release": "standard-version -s --prerelease rb && git push --follow-tags",
+        "release:test": "standard-version --dry-run",
+        "release:beta": "standard-version -s --prerelease beta",
+        "release:rc": "standard-version -s --prerelease rc",
+        "release:no-tag": "standard-version -s --skip.tag",
+        "release:version-only": "standard-version -s --skip.changelog --skip.commit --skip.tag",
+        "release:changelog-only": "standard-version -s --skip.bump --skip.commit --skip.tag"
+    }
+}
