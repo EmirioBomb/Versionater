@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-    <img alt="Version" src="https://img.shields.io/badge/Version-1.0.1-black?labelColor=black&color=fec934">
+    <img alt="Version" src="https://img.shields.io/badge/Version-1.1.0--rb.0-black?labelColor=black&color=fec934">
     <img alt="Build" src="https://img.shields.io/badge/Build-2025.05.28-black?labelColor=black&color=fec934">
     <img alt="Licence" src="https://img.shields.io/badge/Licence-MIT-black?labelColor=black&color=fec934">
     <a href="https://github.com/EmirioBomb">
